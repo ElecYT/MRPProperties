@@ -1,0 +1,5 @@
+name: MRPProperties
+version: '1.0-SNAPSHOT'
+main: me.elec.mRPProperties.MRPProperties
+api-version: '1.21'
+authors: [ Elec ]
